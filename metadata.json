@@ -1,0 +1,6 @@
+{
+  "name": "Sabor Sustentável",
+  "description": "Livro digital de receitas sustentáveis com aproveitamento integral dos alimentos criado com estilo neobrutalista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
